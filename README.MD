@@ -1,4 +1,4 @@
-<h1 align="center">Sweetlink: A distributed urs shortening solution 🔗</h1><br/>
+<h1 align="center">Sweetlink: A distributed url shortening solution 🔗</h1><br/>
 
 ## 📚 | Introduction
 
